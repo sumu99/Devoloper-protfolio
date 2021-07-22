@@ -32,13 +32,19 @@ section{
     border-radius: 5px;
 }
 .top-banner{
-    background-image: url(image/Background\ \(2\).png);
+    background-image: url(image/Layer\ 1\ \(1\).png);
     background-repeat: no-repeat;
 
 }.dream-big{
-    background-image: url(image/Background\ \(2\).png);
+    background-image: url(image/Shape\ 4.png);
     background-repeat: no-repeat;
     background-position: right;
     opacity: 80%;
+}
+.exp{
+    background-image: url(image/Layer\ 1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
 }
 
